@@ -5,6 +5,11 @@
 
 PyRevit Snippets
 ================
+Just some samples of code I use in PyRevit. Your miles may vary.
+
+* :doc:`articles/elements`
+* :doc:`articles/lists`
+
 
 .. toctree::
    :maxdepth: 2
