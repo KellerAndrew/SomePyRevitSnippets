@@ -8,17 +8,14 @@ PyRevit Snippets
 Just some samples of code I use in PyRevit. Your miles may vary.
 
 * :doc:`articles/elements`
+* :doc:`articles/collector`
+* :doc:`articles/location`
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
    
    articles/elements.rst
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   articles/collector.rst
+   articles/location.rst
+	
